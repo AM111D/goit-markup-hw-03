@@ -61,7 +61,7 @@ ul {
   color: var(--primary-text-color);
   text-decoration: none;
   font-size: 26px;
-  line-height: 1.9em;
+  line-height: 1.19;
   font-family: Raleway;
   font-weight: 700;
 }
@@ -171,7 +171,7 @@ ul {
   color: #ffffff;
   font-weight: bold;
   font-size: 16px;
-  line-height: 1.8em;
+  line-height: 1.14;
   letter-spacing: 0.06em;
 }
 
@@ -290,7 +290,7 @@ ul {
   margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.2em;
+  line-height: 1.14;
   letter-spacing: 0.03em;
 }
 
@@ -306,9 +306,6 @@ ul {
   background-color: #2f303a;
   color: #ffffff;
   weight: 600px;
-}
-
-.end {
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -348,7 +345,7 @@ ul {
 .contacts .contact {
   color: #757575;
   font-size: 14px;
-  line-height: 1.5em;
+  line-height: 1.14;
   letter-spacing: 0.03em;
 }
 
@@ -417,13 +414,13 @@ ul {
 .list-cards .title {
   font-weight: 700;
   font-size: 18px;
-  line-height: 2.2em;
+  line-height: 2;
   letter-spacing: 0.06em;
 }
 
 .list-cards .text {
   font-size: 16px;
-  line-height: 1.9em;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   font-weight: 400;
   color: var(--title-text-color);
